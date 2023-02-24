@@ -1,0 +1,13 @@
+.ticket-element{
+    display: inline-block;
+    padding: 12px 32px;
+    margin: 4px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    font-size: 16px;
+    border: 1px solid black;
+}
+.ticket-element:hover{
+   border: 1px solid white;
+   transition: all 0.1s;
+}

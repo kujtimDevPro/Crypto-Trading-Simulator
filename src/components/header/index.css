@@ -1,0 +1,20 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.header-button{
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    background-color: #171717;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 8px;
+}
+.header-button:hover{
+    color: #00d763;
+    transition: all 0.5s;
+    background-color: #343333;
+}
